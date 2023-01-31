@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+}
+.image{
+  background-image: url(./image/f3c0e85c6f2bca793f290c8b46df5070.jpg);
+  width: 1535px;
+  height: 750px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cart{
+  background-color: black;
+  opacity: 0.3;
+  width: 450px;
+  height: 250px;
+  border-radius: 10px;
+}
+.btns{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.btns input{
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  opacity: none;
+}
+.btns button{
+  background-color: gray;
+  color: white;
+}
+.inform h1{
+   color: white;
+   font-size: 20px;
+   padding-left: 40px;
+   margin-top: 20px;
+   margin-bottom: 10px;
+}
+.degree h2{
+  color: white;
+  font-size: medium;
+  padding-left: 40px;
+  margin-bottom: 10px;
+}
+.whether p{
+  color: white; 
+  font-size: larger;
+  padding-left: 40px;
+  margin-top: 13px;
+}
+.whether{
+display: flex;
+}
+.whether .icon{
+  height: 20px;
+  width: 20px;
+}
+.inform2,.inform3{
+  color: white;
+  padding-left: 40px;
+  margin-bottom: 10px;
+
+}
